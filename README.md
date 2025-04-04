@@ -17,7 +17,7 @@ Database: (MySQL, PostgreSql MsSql, MsAccess, NoSQL, etc..)
 
 Framework: ( AngularJS, VueJS , ReatJs, Bootstrap, JQuery, Javascript, etc..)
 
-Basic automation services using Make,  n8n or any similar:
+<b>Basic automation services using Make,  n8n or any similar</b>:
 
 Make: https://www.make.com/en/register?pc=bekingo  
 N8N : https://n8n.partnerlinks.io/l2u6hs4g2a1x
