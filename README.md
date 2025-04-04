@@ -1,5 +1,5 @@
 ## 🚀 About Me
-Full Stack software Developer with +25 years of experience, for more than +25 years, I have developed web, mobile, cloud, and desktop solutions for oil & gas, finance, retail, manufacturing, education.
+Full Stack Software Engineer with 25+ years experience in developing and deploying solutions across web, mobile, cloud, and desktop platforms.
 
 Ability and enthusiasm to learn new tools/technologies quickly.
 
